@@ -1,8 +1,8 @@
 ---
 layout: index.njk
-metaTitle: kailoon - Freelance Front-End Web UI/UX Developer from Malaysia
+metaTitle: Rizal | Product Designer
 metaDescription: Design that code.
-title: 'Design for successful digital products and websites.'
-description: With a strong focus on responsive design, performance & accessibility.
+title: 'Hi, iam Rizal. Love to make delightfull product at Skilvul.'
+description: Web designer Fussion with Product.
 templateEngineOverride: njk,md
 ---

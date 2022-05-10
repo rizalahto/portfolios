@@ -1,29 +1,27 @@
 ---
-metaTitle: 99.co
+metaTitle: Pusaka
 metaDescription: 99.co is a map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience.
-title: 99.co
-description: A map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience.
-testimonial: kailoon is talented and sharp. Paired with a keen design sense and patience when dealing with clients, he’s a trustable resource to work with when it comes to branding and UI/UX works. I’ve entrusted him with the branding works of my 2 companies and will continue to do so in the future.
-clientName: Yan Phun
-clientPos: Founder of Tinder
-projectUrl: https://www.99.co/
-dribbble: https://dribbble.com/kailoon/projects/304610-99-co
+title: Pusaka
+description: Mobile platform to help students and teachers learn and religious activities during the covid-19 pandemic.
+clientName: Rizky dahlan
+clientPos: Founder of Codenesia
+projectUrl: https://play.google.com/store/apps/details?id=superapp.kemenag.go.id
 featuredImg: 99-featured
-bgColor: D5E7F3
+bgColor: E3F0D0
 featured: true
 span: true
-tasks: App Design & Email Design
-year: 2015
-date: 2021-02-28
+tasks: Product Design
+year: 2021
+date: 2021-02-01
 ---
 
-<div class="col-start-3 col-end-9">
+<div class="col-start-3 col-end-9 work-desc">
 
-### The Client
+<h3>The Client</h3>
 
-[99.co](http://99.co/) is a map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience. The startup is founded in 2014, based in Singapore and expanded to Indonesia.
+<a href="https://play.google.com/store/apps/details?id=superapp.kemenag.go.id" target="_blank" style="text-decoration: none;">Pusaka App</a> a map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience. The startup is founded in 2014, based in Singapore and expanded to Indonesia.
 
-### The challenge
+<h3>The challenge</h3>
 
 I was tasked to improve the mobile user experience in order to increase the conversion leads. At the same time, establish a stronger brand identity throughout the design. The project scope includes the web redesign and iOS app user experience improvements.
 
