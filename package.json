@@ -14,7 +14,7 @@
 		"eleventy",
 		"purgecss"
 	],
-	"author": "kailoon",
+	"author": "rizalahto",
 	"license": "ISC",
 	"devDependencies": {
 		"@11ty/eleventy": "^1.0.0",
